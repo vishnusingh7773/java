@@ -1,10 +1,10 @@
-// RECURSIOn 
+// RECURSION
 
 
 import java.util.*;
 
 
-// PRInT nUMBER FROM 5 TO 1
+// PRINT NUMBER FROM 5 TO 1
 /*
 
 
